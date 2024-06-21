@@ -1,1 +1,1 @@
-data cleaning and building differnt models to compare in fraud detecting.
+Data cleaning and building differnt models to compare in fraud detecting.
